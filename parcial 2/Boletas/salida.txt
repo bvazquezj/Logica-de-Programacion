@@ -1,0 +1,320 @@
+IPN
+___________________________________
+Nombre:   ANGELA    MAHECHA  PIÑEROS              bol. 9
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------10
+Logica de programacion-----------10
+Matematicas----------------------10
+comunicacion---------------------9
+sistemas digitales---------------8
+contabilidad---------------------10
+lab fisica-----------------------10
+___________________________________
+promedio                           9.571428
+
+
+IPN
+___________________________________
+Nombre:   LILIANA    CRUZ  GARCIA              bol. 7
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------7
+Logica de programacion-----------9
+Matematicas----------------------9
+comunicacion---------------------10
+sistemas digitales---------------10
+contabilidad---------------------8
+lab fisica-----------------------6
+___________________________________
+promedio                           8.428572
+
+
+IPN
+___________________________________
+Nombre:   ANGIE    FERNANDEZ  MARTINEZ              bol. 12
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------8
+Logica de programacion-----------8
+Matematicas----------------------10
+comunicacion---------------------8
+sistemas digitales---------------6
+contabilidad---------------------9
+lab fisica-----------------------10
+___________________________________
+promedio                           8.428572
+
+
+IPN
+___________________________________
+Nombre:   CAMILO    CORTES  MONTEJO              bol. 16
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------8
+Logica de programacion-----------9
+Matematicas----------------------10
+comunicacion---------------------7
+sistemas digitales---------------6
+contabilidad---------------------8
+lab fisica-----------------------9
+___________________________________
+promedio                           8.142858
+
+
+IPN
+___________________________________
+Nombre:   CARLOS    POLO  CASTELLANOS              bol. 18
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------7
+Logica de programacion-----------8
+Matematicas----------------------9
+comunicacion---------------------10
+sistemas digitales---------------10
+contabilidad---------------------7
+lab fisica-----------------------6
+___________________________________
+promedio                           8.142858
+
+
+IPN
+___________________________________
+Nombre:   CATALINA    ACERO  CARO              bol. 6
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------7
+Logica de programacion-----------9
+Matematicas----------------------7
+comunicacion---------------------8
+sistemas digitales---------------8
+contabilidad---------------------9
+lab fisica-----------------------8
+___________________________________
+promedio                           8.000000
+
+
+IPN
+___________________________________
+Nombre:   LISSETH    BLANCO  CONCHA              bol. 10
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------7
+Logica de programacion-----------9
+Matematicas----------------------10
+comunicacion---------------------7
+sistemas digitales---------------8
+contabilidad---------------------9
+lab fisica-----------------------6
+___________________________________
+promedio                           8.000000
+
+
+IPN
+___________________________________
+Nombre:   CAROLINA    HERNANDEZ  MONTERROZA              bol. 1
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------10
+Logica de programacion-----------7
+Matematicas----------------------6
+comunicacion---------------------9
+sistemas digitales---------------6
+contabilidad---------------------8
+lab fisica-----------------------9
+___________________________________
+promedio                           7.857143
+
+
+IPN
+___________________________________
+Nombre:   ALEXANDER    CARVAJAL  VARGAS              bol. 5
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------4
+Logica de programacion-----------8
+Matematicas----------------------7
+comunicacion---------------------9
+sistemas digitales---------------9
+contabilidad---------------------9
+lab fisica-----------------------9
+___________________________________
+promedio                           7.857143
+
+
+IPN
+___________________________________
+Nombre:   BRIGITE    POLANCO  RUIZ              bol. 13
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------7
+Logica de programacion-----------8
+Matematicas----------------------9
+comunicacion---------------------7
+sistemas digitales---------------6
+contabilidad---------------------9
+lab fisica-----------------------8
+___________________________________
+promedio                           7.714286
+
+
+IPN
+___________________________________
+Nombre:   MARIA    ROCHA  GARCIA              bol. 11
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------7
+Logica de programacion-----------8
+Matematicas----------------------6
+comunicacion---------------------9
+sistemas digitales---------------10
+contabilidad---------------------7
+lab fisica-----------------------6
+___________________________________
+promedio                           7.571429
+
+
+IPN
+___________________________________
+Nombre:   CAMILO    BOTERO  CORTES              bol. 15
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------8
+Logica de programacion-----------8
+Matematicas----------------------7
+comunicacion---------------------6
+sistemas digitales---------------7
+contabilidad---------------------8
+lab fisica-----------------------9
+___________________________________
+promedio                           7.571429
+
+
+IPN
+___________________________________
+Nombre:   ALEJANDRO    ABONDANO  ACEVEDO              bol. 4
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------8
+Logica de programacion-----------7
+Matematicas----------------------6
+comunicacion---------------------8
+sistemas digitales---------------9
+contabilidad---------------------6
+lab fisica-----------------------8
+___________________________________
+promedio                           7.428571
+
+
+IPN
+___________________________________
+Nombre:   CARLOS    MOGOLLON  PACHON              bol. 20
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------6
+Logica de programacion-----------7
+Matematicas----------------------8
+comunicacion---------------------9
+sistemas digitales---------------6
+contabilidad---------------------7
+lab fisica-----------------------9
+___________________________________
+promedio                           7.428571
+
+
+IPN
+___________________________________
+Nombre:   ADRIANA    REY  SANCHEZ              bol. 2
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------5
+Logica de programacion-----------7
+Matematicas----------------------8
+comunicacion---------------------8
+sistemas digitales---------------7
+contabilidad---------------------9
+lab fisica-----------------------7
+___________________________________
+promedio                           7.285714
+
+
+IPN
+___________________________________
+Nombre:   CARLOS    CASTANO  CONTRERAS              bol. 19
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------6
+Logica de programacion-----------8
+Matematicas----------------------5
+comunicacion---------------------7
+sistemas digitales---------------8
+contabilidad---------------------9
+lab fisica-----------------------8
+___________________________________
+promedio                           7.285714
+
+
+IPN
+___________________________________
+Nombre:   CAMILO    VILLAMIZAR  ARISTIZABAL              bol. 14
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------7
+Logica de programacion-----------7
+Matematicas----------------------7
+comunicacion---------------------7
+sistemas digitales---------------7
+contabilidad---------------------7
+lab fisica-----------------------7
+___________________________________
+promedio                           7.000000
+
+
+IPN
+___________________________________
+Nombre:   MARCELA    REY  SANCHEZ              bol. 3
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------8
+Logica de programacion-----------9
+Matematicas----------------------8
+comunicacion---------------------5
+sistemas digitales---------------6
+contabilidad---------------------4
+lab fisica-----------------------8
+___________________________________
+promedio                           6.857143
+
+
+IPN
+___________________________________
+Nombre:   CAMILO    GOMEZ  RODRIGUEZ              bol. 17
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------6
+Logica de programacion-----------8
+Matematicas----------------------5
+comunicacion---------------------8
+sistemas digitales---------------7
+contabilidad---------------------5
+lab fisica-----------------------6
+___________________________________
+promedio                           6.428571
+
+
+IPN
+___________________________________
+Nombre:   FELIPE    VILLA  MONROY              bol. 8
+___________________________________
+Unidad de aprendisaje               calificacion
+fisica---------------------------7
+Logica de programacion-----------5
+Matematicas----------------------8
+comunicacion---------------------4
+sistemas digitales---------------5
+contabilidad---------------------6
+lab fisica-----------------------5
+___________________________________
+promedio                           5.714286
+
+
